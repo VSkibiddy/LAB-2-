@@ -11,7 +11,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String inputFilename = "eng_news_2005_1M-words.txt";
+        String inputFilename = "[sasha copy the path yourself please :)]";
         String outputFilename = "frequency.txt";
         CharacterCounter.test();
 
